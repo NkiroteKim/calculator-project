@@ -1,12 +1,17 @@
-#calculator.
-##Fridah Kimathi
-###This project includes the business logic of a calculator.The calculator is meant to basic addition arithmetic
+#  calculator.
+
+##   Fridah Kimathi
+
+###   This project includes the business logic of a calculator.The calculator is meant to basic addition arithmetic
+
 ####    The technologies used include:
         Html
         Javascript
         css
         Git
-###There are no known bugs in this project
+
+###  There are no known bugs in this project
+
 MIT License
 
 Copyright (c) [2018] [Fridah Kimathi]
