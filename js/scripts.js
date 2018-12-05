@@ -1,8 +1,8 @@
-var leap=confrim("Enter the year");
-if (leap  /4) {
-     console.log("It's a leap year");
-
-}
-else{
-     console.log("Its's not a leap year");
-}
+var add = function(number1, number2) {
+     return number1 + number2;
+   };
+   
+   var number1 = parseInt(prompt("Enter a number:"));
+   var number2 = parseInt(prompt("Enter another number:"));
+   var result = add(number1, number2);
+   alert(result);
